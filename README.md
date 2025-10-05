@@ -14,6 +14,8 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 pip install pandas numpy scikit-learn scipy joblib imbalanced-learn matplotlib seaborn ucimlrepo
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu 
+
 
 
 
