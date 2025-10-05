@@ -1,1 +1,19 @@
 # Datathon-TM93
+Datathon_finalized.ipynb is the completed notebook which includes all our working progress, offering all information and thinking progress
+
+Run finalized model instructions:
+pip install numpy pandas scikit-learn joblib torch seaborn matplotlib ucimlrepo
+
+From the project root directory:
+# Prepare dataset (download UCI CTG and generate train/test)
+python3 prepare_data.py
+✅ Saved data/train.csv and data/test.csv
+
+# Train final model (Random Forest + Feature Engineering)
+python3 train.py
+[Train] Balanced Acc: ... | Macro-F1: ...
+✅ Saved: models/rf_fe.pt and models/rf_fe.joblib
+
+# Run inference/testing
+python3 infer.py
+✅ Saved predictions to predictions.csv
