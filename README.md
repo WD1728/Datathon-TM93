@@ -1,4 +1,8 @@
 # Datathon-TM93
+TM93
+Chang Wenda
+Ishita Singhal
+Aadya Gupta
 Datathon_finalized.ipynb is the completed notebook, which includes all our working progress, offering all information and thinking progress. 
 
 Run finalised model instructions:
