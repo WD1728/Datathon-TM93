@@ -1,4 +1,4 @@
-![IMAGE 2025-10-05 15:41:54](https://github.com/user-attachments/assets/b675a433-4ec6-4b3c-8edc-1d65011f6dcd)# Datathon-TM93
+# Datathon-TM93
 # TM93 Chang Wenda; Ishita Singhal; Aadya Gupta
 
 Datathon_finalized.ipynb is the completed notebook, which includes all our working progress, offering all information and thinking progress. 
@@ -22,6 +22,6 @@ python3 infer.py
 ✅ Saved predictions to predictions.csv
 
 After you run the code correctly, the output should be like:
-
+we include it here in case your local environment/ libraries are different, to prevent any segmentation fault
 
 ![IMAGE 2025-10-05 15:42:26](https://github.com/user-attachments/assets/631b8b49-eef5-4dc1-b557-bee62e70734a)
