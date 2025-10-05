@@ -7,6 +7,16 @@ Run finalised model instructions:
 Download the rf file
 pip install numpy pandas scikit-learn joblib torch seaborn matplotlib ucimlrepo
 
+## Prepare Venture Environment if needed
+cd ~/Desktop/rf
+python3 -m venv .venv
+
+source .venv/bin/activate
+
+pip install pandas numpy scikit-learn scipy joblib imbalanced-learn matplotlib seaborn ucimlrepo
+
+
+
 From the rf file project root directory:
 ## Prepare dataset (download UCI CTG and generate train/test)
 python3 prepare_data.py
