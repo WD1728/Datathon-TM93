@@ -2,6 +2,7 @@
 # TM93 Chang Wenda; Ishita Singhal; Aadya Gupta
 
 Datathon_finalized.ipynb is the completed notebook, which includes all our working progress, offering all information and thinking progress. 
+
 We also implemented a simple neural network model for comparison (neural network code.ipynb), included in the repository.
 
 Run finalised model instructions:
